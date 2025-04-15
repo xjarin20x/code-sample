@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /search
+Sitemap: https://palaystat.philrice.gov.ph/sitemap.xml
+
+User-agent: Googlebot
+Disallow: /search
+Disallow: /*.pdf$
+Sitemap: https://palaystat.philrice.gov.ph/sitemap.xml
